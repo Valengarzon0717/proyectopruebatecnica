@@ -17,6 +17,5 @@ public class JoinToday implements Task {
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(Click.on(JoinTodayuserinterface.CLICK_BUTTON));
 
-
     }
 }
