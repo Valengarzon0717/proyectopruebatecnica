@@ -12,6 +12,7 @@ import proyectopruebatecnica.tasks.JoinToday;
 import proyectopruebatecnica.tasks.OpenUp;
 import proyectopruebatecnica.tasks.Register;
 
+
 public class PruebaTecnicaStepdefinitions {
 
     @Before
